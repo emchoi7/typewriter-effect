@@ -1,17 +1,23 @@
-# Build a Typewriter effect component
+## Typewriter Effect
 
-> This repository is the companion to the ["Build a Typewriter effect component"](TODO ADD LINK) practice exercise.
+This is a quick react practice challenge from reactpractice.dev:
 
 Given a sentence, display it with half a second delay between each character.
 Start showing nothing and then display characters one by one until the full sentence is displayed.
 No style is required.
 
-To get started, you can clone this starter repo.
-When you're ready to check your work, check out [the official solution](TODO ADD LINK).
+## Project Screen Shot(s)
 
-## Getting started:
+#### Example:   
+
+![Typewriter effect running on the input "Display with typewriter effect"](./img/screenshot.png)
+
+## Installation and Setup Instructions
 
 - `npm install`
 - `npm run dev`
+- Visit http://localhost:5173/ 
 
-Add your code to the `src/TypewriterEffect.jsx` file.
+## Reflection
+
+    This was an exercise to better understand using Refs in React as well as setInterval. 
